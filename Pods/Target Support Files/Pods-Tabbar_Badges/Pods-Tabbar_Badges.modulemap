@@ -1,0 +1,6 @@
+framework module Pods_Tabbar_Badges {
+  umbrella header "Pods-Tabbar_Badges-umbrella.h"
+
+  export *
+  module * { export * }
+}

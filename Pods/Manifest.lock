@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.7.1)
+  - IQKeyboardManagerSwift (6.5.11)
+  - lottie-ios (4.2.0)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - QorumLogs (0.9)
+  - SDWebImage (5.15.8):
+    - SDWebImage/Core (= 5.15.8)
+  - SDWebImage/Core (5.15.8)
+  - SimpleImageViewer (1.1.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - Moya
+  - QorumLogs
+  - SDWebImage
+  - SimpleImageViewer
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - Moya
+    - QorumLogs
+    - SDWebImage
+    - SimpleImageViewer
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  lottie-ios: 809ecf2d460ed650a6aed7aa88b2ec45fab4779c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  QorumLogs: 9a484df6973a3697ac79fe2273140fde6b36dccc
+  SDWebImage: cb032eba469c54e0000e78bcb0a13cdde0a52798
+  SimpleImageViewer: 34c3a2cde2d9ac022146772cefc27fca14b0c8b1
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: e978c174d0d65135b704216a9aff020366774f37
+
+COCOAPODS: 1.12.1
